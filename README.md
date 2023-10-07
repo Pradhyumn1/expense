@@ -46,5 +46,7 @@ Follow these steps to run the Expense Tracker App locally:
 - React Hooks
 - React-Styled Components
 
+![image](https://github.com/Pradhyumn1/expense/assets/73153956/de89c335-941f-41bb-8887-b522d79129f5)
+
 
 
